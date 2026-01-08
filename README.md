@@ -1,5 +1,4 @@
-# Python-Mastery-Zero-to-Hero
-# Python Zero to Job Ready 🚀
+# Python-Mastery-Zero-to-Hero 🚀
 
 This repository is a complete **Python Zero to Advanced** learning journey designed to make you **job-ready**, not just exam-ready.
 
