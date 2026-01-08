@@ -36,3 +36,29 @@ It is structured in a way that:
 04_advanced_python/   # Decorators, generators, threading, etc.
 05_projects/          # Real-world projects
 06_interview_level/   # Interview questions & coding tasks
+
+🛠️ Requirements
+
+.Python 3.x
+.Any code editor (VS Code recommended)
+
+▶️ How to Run Code
+   .python filename.py
+
+📈 Learning Philosophy
+
+Learn less, but understand deeply.
+Write code that humans and machines both respect.
+
+🔗 My Learning Journey
+
+I am publicly sharing my Python learning journey to:
+
+ .Stay consistent
+
+ .Help others learn
+
+ .Build a strong GitHub & LinkedIn profile
+
+📌 LinkedIn updates are shared regularly with progress and code examples.
+LinkedIn profile :- [www.linkedin.com/in/agrojit-shill-4736ab3a2]
