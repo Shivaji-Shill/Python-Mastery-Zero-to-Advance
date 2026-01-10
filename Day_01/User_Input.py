@@ -1,3 +1,0 @@
-# Ask user for their name
-name = input("Enter your name: ")
-print("Hello, " + name + "!") # Combine text + user input
