@@ -52,7 +52,9 @@ In the next session, we will cover **Python Tuple**:
 - Understanding immutable sequences  
 - Creating and accessing tuples  
 - Tuple unpacking  
-- Using tuples in real-life projects with lists  
+- Using tuples in real-life projects with lists
+
+  [For slide please check my LinkedIn account Day 7 post]
 
 ---
 
